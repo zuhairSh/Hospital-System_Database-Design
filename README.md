@@ -38,14 +38,14 @@ A comprehensive Entity-Relationship Diagram (ERD) designed to manage hospital op
 
 ## 🖼️ Entity Relationship Diagram (ERD)
 
-![Hospital ERD](image_d7441c.png) 
-*Note: Replace 'image_d7441c.png' with the actual filename of the image you upload to GitHub.*
+![Hospital ERD](MyERD_Hospital.png) 
+*Note: Replace 'MyERD_Hospital.png' with the actual filename of the image you upload to GitHub.*
 
 ---
 
 ## 📂 Files in this Repository
-* `MyERD_2.drawio`: The original editable source file (Open via [draw.io](https://app.diagrams.net)).
-* `image_d7441c.png`: The exported diagram image.
+* `MyERD_Hospital.drawio`: The original editable source file (Open via [draw.io](https://app.diagrams.net)).
+* `MyERD_Hospital.png`: The exported diagram image.
 * `README.md`: Project documentation.
 
 ---
