@@ -45,6 +45,7 @@ A comprehensive Entity-Relationship Diagram (ERD) designed to manage hospital op
 
 ## 📂 Files in this Repository
 * `MyERD_Hospital.drawio`: The original editable source file (Open via [draw.io](https://app.diagrams.net)).
+* * [Hospital_System.drawio](https://drive.google.com/file/d/1UJxjpMETy7REYi_QFSMYw2oDcpIKk5LW/view?usp=sharing): The original editable source file (Direct link to Google Drive).
 * `MyERD_Hospital.png`: The exported diagram image.
 * `README.md`: Project documentation.
 
