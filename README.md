@@ -41,8 +41,8 @@ The transition from logical design to physical tables, including Primary Keys (P
 ---
 
 ## 📂 Files in this Repository
-* **MyERD_Hospital.drawio**: [Link to Google Drive]([https://drive.google.com/file/d/1UJxjpMETy7REYi_QFSMYw2oDcpIKk5LW/view?usp=sharing]).
-* **Hospital_System.drawio**: [Link to Google Drive]([https://drive.google.com/file/d/1_vu_gGR3eOM9gEwpiiGE-1d0uSSVu2ls/view]) 🔗
+* **MyERD_Hospital.drawio**: [Link to Google Drive](https://drive.google.com/file/d/1UJxjpMETy7REYi_QFSMYw2oDcpIKk5LW/view?usp=sharing)
+* **Hospital_System.drawio**: [Link to Google Drive](https://drive.google.com/file/d/1_vu_gGR3eOM9gEwpiiGE-1d0uSSVu2ls/view) 🔗
 * **MyERD_Hospital.png**: The exported ERD image.
 * **Hospital_Schema.png**: The exported Physical Schema image.
 * **README.md**: Project documentation.
